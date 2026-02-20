@@ -29,6 +29,7 @@ ri3-main/
 │       ├── jocs_openalex.ipynb               # JoCS OpenAlex ingestion & enrichment
 │       ├── jocs_openalex_authors.ipynb       # JoCS author-level enrichment
 │       ├── pdfs_download.ipynb               # Automated PDF acquisition
+│       ├── unified_master_dataset_2.ipynb    # Database Unfied ICCS 
 │       │
 │       └── parsing/
 │           ├── iccs_test_grobid.py           # ICCS GROBID parsing test
